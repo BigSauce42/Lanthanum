@@ -8,5 +8,6 @@ The current injector executes my shellcode in the target process by hijacking a 
   * Simple bytepatching to avoid Steam's LoadLibrary hooks
   * Manual mapping
   * More cool stuff
+  * More error checking, it's poopoo right now
 ### Credits (I'm sure this will expand)
 adrian from public club - helped with shellcode
